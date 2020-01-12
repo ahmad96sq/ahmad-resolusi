@@ -3,7 +3,10 @@ Rencana konten
 - JavaScript
  - ES6
  - Framework JavaScript
+  ^ Vue
+  ^ React
 - Struktur data dasar
 - PHP Framework
 - Interview
 - Vlogs
+- Pyton
